@@ -1,0 +1,1 @@
+Projekt wykorzystuje React na frontendzie oraz Django wraz z Django REST Framework na backendzie. Aby uruchomić projekt lokalnie, należy uruchomić zarówno serwer Django, jak i aplikację React, wszystko oczywiście lokalnie.
